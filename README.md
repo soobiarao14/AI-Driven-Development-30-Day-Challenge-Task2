@@ -20,31 +20,49 @@ Explain how the Nine Pillars of AIDD help a developer grow into an M-Shaped Deve
  English
 
 The Nine Pillars of AIDD help a developer become M-Shaped by automating repetitive tasks, improving system design and planning, building deep expertise in key areas, and broadening skills across AI, tools, and cloud. This lets the developer focus on high-value problem-solving, strategic decisions, and integration, combining depth and breadth in their skills.
+
 (Roman Urdu)
 
 Nine Pillars of AIDD developer k M-Shaped bane nee m help kart e ha kinky ye repetitive tasks automate kart e ha system design or planning improve kart e h key areas me deep expertise develop karate ha, or AI, tools, or cloud k skills broaden kart h. Is se developer high-value problem-solving, strategic decisions, aur integration par focus kar sakta hai, jisse unki skills mein depth or breadth dono aati hain.
 2. Vibe Coding vs Specification-Driven Development
+
 Why does Vibe Coding usually create problems after one week?
+
 English:
 Vibe Coding causes problems after a week because it lacks discipline. Quick AI-generated code may work at first but builds up errors and technical debt, leading to bugs and maintenance issues.
 Roman :
-Vibe Coding problems tab create hotein hain kyunki is me discipline nah hoti. AI-generated code shuru mein kaam karta hai, lekin errors aur technical debt jama ho jate hain, jisse bugs aur maintenance issues aate hain.
+
+Vibe Coding problems tab create hotein hain kyunki is me discipline nah hoti.
+AI-generated code shuru mein kaam karta hai, lekin errors aur technical debt jama ho jate hain, jisse bugs aur maintenance issues aate hain.
 How would Specification-Driven Development prevent those problems?
 English:
-Spec-Driven Development prevents problems by using clear specifications and structure, keeping AI-generated code consistent, tested, and error-free.
+
+Spec-Driven Development prevents problems by using clear specifications and structure, 
+keeping AI-generated code consistent, tested, and error-free.
 Roman:
-Spec-Driven Development problems prevent karta hai kyunki ye clear specifications aur structure provide karta hai, jisse AI-generated code consistent, tested, aur error-free rehta hai.
+
+Spec-Driven Development problems prevent karta hai kyunki ye clear specifications aur
+structure provide karta hai, jisse AI-generated code consistent, tested, aur error-free rehta hai.
 3)Architecture Thinking
 How does architecture-first thinking change the role of a developer in AIDD?
 English 
-Architecture-first thinking shifts a developer’s role from writing every line of code to designing the system, making strategic decisions, and orchestrating AI to do the mechanical work. Developers focus on problem understanding, quality, and integration, increasing their impact and value.
+Architecture-first thinking shifts a developer’s role from writing every line of
+code to designing the system, making strategic decisions, and orchestrating 
+AI to do the mechanical work. Developers focus on problem understanding, quality, and integration, increasing their impact and value.
 Roman:
-Architecture-first thinking developer ka role change karta hai ab wo har line of code nahi likhta, balk system design, strategic decisions, or AI ko tasks karne ke liye orchestrate karta hai. Developer problem samajhne, quality aur integration par focus karta hai, jisse unka impact aur value barhta hai.
+Architecture-first thinking developer ka role change karta hai ab wo har line of 
+code nahi likhta, balk system design, strategic decisions, or AI ko tasks karne 
+ke liye orchestrate karta hai. Developer problem samajhne, quality aur integration
+par focus karta hai, jisse unka impact aur value barhta hai.
+
 Explain why developers must think in layers and systems instead of raw code.?
+
 English:
-Developers must think in layers and systems to maintain architecture, modularity, and scalability, focusing on design and problem-solving instead of just coding.
+Developers must think in layers and systems to maintain architecture, modularity,
+and scalability, focusing on design and problem-solving instead of just coding.
 Roman:
-Developers ko layers aur systems mein sochna chahiye taake architecture, modularity, aur scalability maintain ho aur wo design aur problem-solving par focus kar saken.
+Developers ko layers aur systems mein sochna chahiye taake architecture, 
+modularity, aur scalability maintain ho aur wo design aur problem-solving par focus kar saken.
 
 
 📁 Part B — Practical Task (Screenshot Required)
@@ -66,8 +84,11 @@ generate a 1-paragraph specification
 3)B. Architecture becomes hard to extend ✅
 4)B. Handle repetitive tasks so dev focuses on design & problem-solving ✅
 5)Deep skills in multiple related domains ✅
+
 Reflection
-AI-Native development shifts developers from just writing code to thinking in systems, using Spec-Driven Development (SDD) and AI agents to plan, build, and maintain software efficiently, growing into M-Shaped professionals with multiple deep skills.
+AI-Native development shifts developers from just writing code to thinking
+in systems, using Spec-Driven Development (SDD) and AI agents to plan, build,
+and maintain software efficiently, growing into M-Shaped professionals with multiple deep skills.
 
 
 
